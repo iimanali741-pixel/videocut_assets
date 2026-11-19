@@ -1,1 +1,5 @@
-
+[
+  {"id": "s1", "name": "Marocco", "category": "Music", "file": "marocco.mp3"},
+  {"id": "s2", "name": "Sad", "category": "Music", "file": "sad.mp3"},
+  {"id": "s3", "name": "Slavafunk", "category": "Music", "file": "slavafunk.mp3"}
+]
